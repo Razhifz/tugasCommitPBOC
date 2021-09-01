@@ -5,4 +5,4 @@ tes commit
 push pertama
 
 
-NAMA / NIM
+muhammad rashif razanah / 202410101124
